@@ -3,6 +3,13 @@
 body{
 	background-image: url("../assets/images/fade.jpg");
 }
+
+.wrapper{
+	width:90%;
+    margin:0 auto;
+    padding:20px;
+}
+
 .nycda{
 	font-family: Lucida;
 	font-size: 40px;
@@ -20,23 +27,11 @@ body{
 	padding: 20px;
 }
 
-.wrapper{
-	width:90%;
-    margin:0 auto;
-    padding:20px;
-}
-
 a{
 	font-family: Lucida;
 	font-size: 24px;
 	line-height: 32px;
 	color: white;
-
-}
-.format{
-	font-family: Lucida;
-	font-size: 24px;
-	line-height: 32px;
 }
 
 .teaser{
@@ -44,7 +39,10 @@ a{
 	color: white;
 	font-size: 18px;
 	text-align: left;
+}
 
+.continue{
+	text-align: right;
 }
 
 .more{
@@ -54,19 +52,17 @@ a{
 	color: orange;
 }
 
-.continue{
-	text-align: right;
-}
-
 /*page 2*/
-.facebook{
-	position: fixed;
-	top:100px;
-	left:1255px;
-	width: 50px;
-	height: 40px;
+h1{
+	font-family: Lucida;
+	font-size: 32px;
+	font-style: bold;
 	text-align: center;
-
+	color: white;
+	border-bottom: 10px double orange;
+	width:60%;
+	margin: 0 auto;
+	padding: 20px;
 }
 
 .news{
@@ -78,21 +74,18 @@ a{
 	font-size: 18px
 }
 
-img{
+img.nothing{
 	width:25%;
 	float:left;
 }
 
-h1{
-	font-family: Lucida;
-	font-size: 32px;
-	font-style: bold;
+.facebook{
+	position: fixed;
+	top:100px;
+	left:1255px;
+	width: 50px;
+	height: 40px;
 	text-align: center;
-	color: white;
-	border-bottom: 10px double orange;
-	width:75%;
-	margin: 0 auto;
-	padding: 20px;
 }
 
 .nycdasmall{
