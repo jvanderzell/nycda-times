@@ -1,0 +1,105 @@
+/*page 1*/
+
+body{
+	background-image: url("../assets/images/fade.jpg");
+}
+.nycda{
+	font-family: Lucida;
+	font-size: 40px;
+	font-style: bold;
+	text-align: center;
+	color: white;
+	border-bottom: 10px double orange;
+}
+
+.column{
+	float: left;
+	border-bottom: double 2px gray;
+	width: 45%;
+	margin: 10px;
+	padding: 20px;
+}
+
+.wrapper{
+	width:90%;
+    margin:0 auto;
+    padding:20px;
+}
+
+a{
+	font-family: Lucida;
+	font-size: 24px;
+	line-height: 32px;
+	color: white;
+
+}
+.format{
+	font-family: Lucida;
+	font-size: 24px;
+	line-height: 32px;
+}
+
+.teaser{
+	font-family: Lucida;
+	color: white;
+	font-size: 18px;
+	text-align: left;
+
+}
+
+.more{
+	font-family: Lucida;
+	font-size: 18px;
+	font-weight: bold;
+	color: orange;
+}
+
+.continue{
+	text-align: right;
+}
+
+/*page 2*/
+.facebook{
+	position: fixed;
+	top:100px;
+	left:1255px;
+	width: 50px;
+	height: 40px;
+	text-align: center;
+
+}
+
+.news{
+	width:75%;
+	margin: 0 auto;
+	padding: 20px;
+	font-family: Lucida;
+	color: white;
+	font-size: 18px
+}
+
+img{
+	width:25%;
+	float:left;
+}
+
+h1{
+	font-family: Lucida;
+	font-size: 32px;
+	font-style: bold;
+	text-align: center;
+	color: white;
+	border-bottom: 10px double orange;
+	width:75%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.nycdasmall{
+	font-family: Lucida;
+	font-size: 16px;
+	text-align: center;
+	border: 5px double orange;
+	margin: 20px auto;
+}
+
