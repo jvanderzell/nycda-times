@@ -81,8 +81,7 @@ img.nothing{
 
 .facebook{
 	position: fixed;
-	top:100px;
-	left:1255px;
+	top:10%;
 	width: 50px;
 	height: 40px;
 	text-align: center;
